@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+
+}
+
+.primero{
+   text-align: center;
+   padding: 5em;
+}
+
+.carru{
+    display: flex;
+    justify-content: center;
+    padding: 5em;
+}
+
+footer{
+    background-color: brown;
+    text-align: center;
+}
+
+.segundo{
+    text-align: center;
+    padding: 5em;
+}
+
+.parrafo{
+    text-align: center;
+    padding: 1em;
+}
+
+.iavaimg{
+    display: flex;
+    justify-content: center;
+    padding: 3em;
+}
+
+.tercero{
+    text-align: center;
+    padding: 5em;
+}
+
+.descripcion{
+    text-align: center;
+    padding: 1em;
+}
+
+.fiatunoimg{
+    display: flex;
+    justify-content: center;
+    padding: 3em;
+    margin: 1em ;
+}
+.cuarto{
+    text-align: center;
+    padding: 5em;
+}
+
+.caracteristicas{
+    text-align: center;
+    padding: 2em;
+}
+
+.fiatlata{
+    display: flex;
+    justify-content: center;
+    padding: 3em;
+    margin: 2em;
+    
+}
+
+.quinto{
+    text-align: center;
+    padding: 5em;
+}
+
+.conclusion{
+    text-align: center;
+    padding: 2em;
+}
+
+.sel{
+    display: flex;
+    justify-content: center;
+    padding: 5em;
+}
+
+
+
+
